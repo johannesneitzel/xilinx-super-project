@@ -1,0 +1,3 @@
+[submodule "sources/meta-custom-xilinx"]
+	path = sources/meta-custom-xilinx
+	url = git@github.com:johannesneitzel/meta-custom-xilinx.git
